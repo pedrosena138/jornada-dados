@@ -1,0 +1,3354 @@
+{
+ "list": {
+  "id": "901200110866",
+  "name": "Migração do PDV para cloud - Farmácias Saúde Já",
+  "space": "Delivery Varejo"
+ },
+ "exported_at": "2026-10-16T06:00:00Z",
+ "tasks": [
+  {
+   "id": "86b21e5001",
+   "name": "Levantamento de requisitos",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1734004800000",
+   "due_date": "1741867200000",
+   "date_done": "1741867200000",
+   "time_estimate": 1364400000,
+   "assignees": [
+    {
+     "username": "Sabrina Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "discovery"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1733745600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1741003200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "discovery"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5002",
+   "name": "Definição do escopo do MVP",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1734955200000",
+   "due_date": "1741953600000",
+   "date_done": "1741953600000",
+   "time_estimate": 4147200000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "discovery"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1734609600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1740744000000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "discovery"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5003",
+   "name": "Revisão de segurança da arquitetura",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1738152000000",
+   "due_date": "1744200000000",
+   "date_done": "1744200000000",
+   "time_estimate": 2343600000,
+   "assignees": [
+    {
+     "username": "Felipe Teixeira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "arquitetura"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1737201600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1743336000000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "arquitetura"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5004",
+   "name": "Entrevistas com usuários",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1738324800000",
+   "due_date": "1741953600000",
+   "date_done": "1741953600000",
+   "time_estimate": 7556400000,
+   "assignees": [
+    {
+     "username": "Lucas Pacheco"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "discovery"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1737288000000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1741003200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "discovery"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5005",
+   "name": "Desenho da arquitetura da solução",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1741176000000",
+   "due_date": "1746100800000",
+   "date_done": "1746100800000",
+   "time_estimate": 885600000,
+   "assignees": [
+    {
+     "username": "Lucas Pacheco"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "arquitetura"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1740484800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1745236800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "arquitetura"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5006",
+   "name": "Revisão de segurança da arquitetura",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1742212800000",
+   "due_date": "1749643200000",
+   "date_done": "1749643200000",
+   "time_estimate": 1940400000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "arquitetura"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1741608000000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1748779200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "arquitetura"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5007",
+   "name": "Autenticação SSO",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1742299200000",
+   "due_date": "1750939200000",
+   "date_done": "1750939200000",
+   "time_estimate": 1731600000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1741694400000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1749643200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5008",
+   "name": "API de cadastro",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1743422400000",
+   "due_date": "1749816000000",
+   "date_done": "1749816000000",
+   "time_estimate": 4788000000,
+   "assignees": [
+    {
+     "username": "Lucas Pacheco"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1742904000000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1748347200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5009",
+   "name": "Autenticação SSO",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1744372800000",
+   "due_date": "1752840000000",
+   "date_done": "1752840000000",
+   "time_estimate": 4122000000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1742990400000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1750852800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5010",
+   "name": "Cadastro de clientes",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1744372800000",
+   "due_date": "1747915200000",
+   "date_done": "1747915200000",
+   "time_estimate": 2826000000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1743422400000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1746619200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5011",
+   "name": "Desenho das integrações",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1745582400000",
+   "due_date": "1749816000000",
+   "date_done": "1749816000000",
+   "time_estimate": 1576800000,
+   "assignees": [
+    {
+     "username": "Sabrina Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "arquitetura"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1744286400000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1748779200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "arquitetura"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5012",
+   "name": "Autenticação SSO",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1745323200000",
+   "due_date": "1753876800000",
+   "date_done": "1753876800000",
+   "time_estimate": 1839600000,
+   "assignees": [
+    {
+     "username": "Sabrina Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1744804800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1752840000000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5013",
+   "name": "Tela de login",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1746100800000",
+   "due_date": "1754481600000",
+   "date_done": "1754481600000",
+   "time_estimate": 1785600000,
+   "assignees": [
+    {
+     "username": "Lucas Pacheco"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1744977600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1753531200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5014",
+   "name": "Desenho das integrações",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1746446400000",
+   "due_date": "1750334400000",
+   "date_done": "1750334400000",
+   "time_estimate": 6238800000,
+   "assignees": [
+    {
+     "username": "João Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "arquitetura"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1745496000000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1748779200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "arquitetura"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5015",
+   "name": "Motor de regras",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1746532800000",
+   "due_date": "1751544000000",
+   "date_done": "1751544000000",
+   "time_estimate": 1263600000,
+   "assignees": [
+    {
+     "username": "Felipe Teixeira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1745668800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1750680000000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5016",
+   "name": "Revisão de segurança da arquitetura",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1747137600000",
+   "due_date": "1749729600000",
+   "date_done": "1749729600000",
+   "time_estimate": 4438800000,
+   "assignees": [
+    {
+     "username": "Lucas Pacheco"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "arquitetura"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1746014400000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1748779200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "arquitetura"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5017",
+   "name": "Autenticação SSO",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1747137600000",
+   "due_date": "1749816000000",
+   "date_done": "1749816000000",
+   "time_estimate": 2052000000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1746273600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1748606400000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5018",
+   "name": "Carrinho de compras",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1747224000000",
+   "due_date": "1749816000000",
+   "date_done": "1749816000000",
+   "time_estimate": 1771200000,
+   "assignees": [
+    {
+     "username": "Karina Nogueira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1746532800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1748779200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5019",
+   "name": "API de cadastro",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1747915200000",
+   "due_date": "1753358400000",
+   "date_done": "1753358400000",
+   "time_estimate": 3891600000,
+   "assignees": [
+    {
+     "username": "Karina Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1746705600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1751803200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5020",
+   "name": "Carrinho de compras",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1748260800000",
+   "due_date": "1757073600000",
+   "date_done": "1757073600000",
+   "time_estimate": 745200000,
+   "assignees": [
+    {
+     "username": "João Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1747137600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1755000000000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5021",
+   "name": "Cadastro de clientes",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1750420800000",
+   "due_date": "1760011200000",
+   "date_done": "1760011200000",
+   "time_estimate": 1159200000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1749211200000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1759147200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5022",
+   "name": "Tela de login",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1751025600000",
+   "due_date": "1755777600000",
+   "date_done": "1755777600000",
+   "time_estimate": 1767600000,
+   "assignees": [
+    {
+     "username": "Felipe Teixeira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1749556800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1754913600000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5023",
+   "name": "API de cadastro",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1751371200000",
+   "due_date": "1757678400000",
+   "date_done": "1757678400000",
+   "time_estimate": 1105200000,
+   "assignees": [
+    {
+     "username": "Karina Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1750593600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1756036800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5024",
+   "name": "Motor de regras",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1752235200000",
+   "due_date": "1760702400000",
+   "date_done": "1760702400000",
+   "time_estimate": 1598400000,
+   "assignees": [
+    {
+     "username": "Felipe Teixeira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1751198400000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1760011200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5025",
+   "name": "Busca de produtos",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1752753600000",
+   "due_date": "1755777600000",
+   "date_done": "1755777600000",
+   "time_estimate": 1828800000,
+   "assignees": [
+    {
+     "username": "Sabrina Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1751457600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1754222400000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5026",
+   "name": "Carrinho de compras",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1753185600000",
+   "due_date": "1762430400000",
+   "date_done": "1762430400000",
+   "time_estimate": 1522800000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1751976000000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1760356800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5027",
+   "name": "Motor de regras",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1754395200000",
+   "due_date": "1761220800000",
+   "date_done": "1761220800000",
+   "time_estimate": 1911600000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1753358400000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1759579200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5028",
+   "name": "Serviço de notificações",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1754395200000",
+   "due_date": "1758801600000",
+   "date_done": "1758801600000",
+   "time_estimate": 4118400000,
+   "assignees": [
+    {
+     "username": "João Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1753444800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1757678400000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5029",
+   "name": "Motor de regras",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1755000000000",
+   "due_date": "1762344000000",
+   "date_done": "1762344000000",
+   "time_estimate": 1098000000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1753531200000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1760788800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5030",
+   "name": "Autenticação SSO",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1754913600000",
+   "due_date": "1761307200000",
+   "date_done": "1761307200000",
+   "time_estimate": 3960000000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1753963200000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1759924800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5031",
+   "name": "Serviço de notificações",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1756296000000",
+   "due_date": "1763121600000",
+   "date_done": "1763121600000",
+   "time_estimate": 2739600000,
+   "assignees": [
+    {
+     "username": "Karina Nogueira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1754827200000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1760875200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5032",
+   "name": "Autenticação SSO",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1756382400000",
+   "due_date": "1764331200000",
+   "date_done": "1764331200000",
+   "time_estimate": 957600000,
+   "assignees": [
+    {
+     "username": "Lucas Pacheco"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1754913600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1763294400000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5033",
+   "name": "Painel do usuário",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1756900800000",
+   "due_date": "1761220800000",
+   "date_done": "1761220800000",
+   "time_estimate": 1828800000,
+   "assignees": [
+    {
+     "username": "Karina Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1755777600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1759492800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5034",
+   "name": "Carga inicial de dados",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1756900800000",
+   "due_date": "1767787200000",
+   "date_done": "1767787200000",
+   "time_estimate": 1126800000,
+   "assignees": [
+    {
+     "username": "Sabrina Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "integracao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1755864000000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1765108800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "integracao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5035",
+   "name": "API de cadastro",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1758715200000",
+   "due_date": "1767873600000",
+   "date_done": "1767873600000",
+   "time_estimate": 2044800000,
+   "assignees": [
+    {
+     "username": "Karina Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1757678400000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1765454400000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5036",
+   "name": "Tela de login",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1760443200000",
+   "due_date": "1767873600000",
+   "date_done": "1767873600000",
+   "time_estimate": 1238400000,
+   "assignees": [
+    {
+     "username": "Karina Nogueira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1759233600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1765108800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5037",
+   "name": "Autenticação SSO",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1761048000000",
+   "due_date": "1765540800000",
+   "date_done": "1765540800000",
+   "time_estimate": 1620000000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1760011200000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1764676800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5038",
+   "name": "Integração com o legado",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1763640000000",
+   "due_date": "1770379200000",
+   "date_done": "1770379200000",
+   "time_estimate": 7808400000,
+   "assignees": [
+    {
+     "username": "Lucas Pacheco"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "integracao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1761998400000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1768305600000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "integracao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5039",
+   "name": "Testes de regressão",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1763726400000",
+   "due_date": "1773403200000",
+   "date_done": "1773403200000",
+   "time_estimate": 11034000000,
+   "assignees": [
+    {
+     "username": "Lucas Pacheco"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "testes"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1762084800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1771416000000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "testes"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5040",
+   "name": "API de cadastro",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1764244800000",
+   "due_date": "1772798400000",
+   "date_done": "1772798400000",
+   "time_estimate": 2646000000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1763035200000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1770206400000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5041",
+   "name": "Testes integrados",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1764936000000",
+   "due_date": "1767960000000",
+   "date_done": "1767960000000",
+   "time_estimate": 1530000000,
+   "assignees": [
+    {
+     "username": "João Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "testes"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1763640000000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1766145600000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "testes"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5042",
+   "name": "Integração com o ERP do cliente",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1765368000000",
+   "due_date": "1775131200000",
+   "date_done": "1775131200000",
+   "time_estimate": 3729600000,
+   "assignees": [
+    {
+     "username": "Karina Nogueira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "integracao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1763812800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1773662400000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "integracao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5043",
+   "name": "Relatórios gerenciais",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1765454400000",
+   "due_date": "1769169600000",
+   "date_done": "1769169600000",
+   "time_estimate": 4575600000,
+   "assignees": [
+    {
+     "username": "Karina Nogueira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1763985600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1767268800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5044",
+   "name": "Integração com gateway de pagamento",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1765800000000",
+   "due_date": "1775131200000",
+   "date_done": "1775131200000",
+   "time_estimate": 1184400000,
+   "assignees": [
+    {
+     "username": "João Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "integracao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1764763200000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1773057600000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "integracao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5045",
+   "name": "Busca de produtos",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1766491200000",
+   "due_date": "1772020800000",
+   "date_done": "1772020800000",
+   "time_estimate": 3171600000,
+   "assignees": [
+    {
+     "username": "Felipe Teixeira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1764936000000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1769428800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5046",
+   "name": "Busca de produtos",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1766404800000",
+   "due_date": "1773403200000",
+   "date_done": "1773403200000",
+   "time_estimate": 3747600000,
+   "assignees": [
+    {
+     "username": "João Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1765022400000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1771848000000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5047",
+   "name": "Motor de regras",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1766577600000",
+   "due_date": "1772798400000",
+   "date_done": "1772798400000",
+   "time_estimate": 1641600000,
+   "assignees": [
+    {
+     "username": "Karina Nogueira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1765022400000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1770638400000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5048",
+   "name": "API de cadastro",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1767700800000",
+   "due_date": "1771588800000",
+   "date_done": "1771588800000",
+   "time_estimate": 2394000000,
+   "assignees": [
+    {
+     "username": "Karina Nogueira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1765713600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1768996800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5049",
+   "name": "Homologação com usuários",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1767700800000",
+   "due_date": "1778241600000",
+   "date_done": "1778241600000",
+   "time_estimate": 2631600000,
+   "assignees": [
+    {
+     "username": "Karina Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "testes"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1766145600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1775995200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "testes"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5050",
+   "name": "Tela de login",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1768564800000",
+   "due_date": "1777464000000",
+   "date_done": "1777464000000",
+   "time_estimate": 2754000000,
+   "assignees": [
+    {
+     "username": "Felipe Teixeira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1766318400000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1774612800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5051",
+   "name": "Homologação com usuários",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1768564800000",
+   "due_date": "1772193600000",
+   "date_done": "1772193600000",
+   "time_estimate": 824400000,
+   "assignees": [
+    {
+     "username": "Felipe Teixeira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "testes"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1766404800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1769774400000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "testes"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5052",
+   "name": "Mensageria entre serviços",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1768305600000",
+   "due_date": "1773835200000",
+   "date_done": "1773835200000",
+   "time_estimate": 2336400000,
+   "assignees": [
+    {
+     "username": "Karina Nogueira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "integracao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1766836800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1771243200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "integracao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5053",
+   "name": "Autenticação SSO",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1769774400000",
+   "due_date": "1778155200000",
+   "date_done": "1778155200000",
+   "time_estimate": 1962000000,
+   "assignees": [
+    {
+     "username": "Sabrina Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1767960000000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1775044800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5054",
+   "name": "Autenticação SSO",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1769601600000",
+   "due_date": "1776254400000",
+   "date_done": "1776254400000",
+   "time_estimate": 1432800000,
+   "assignees": [
+    {
+     "username": "Lucas Pacheco"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1767960000000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1773576000000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5055",
+   "name": "Carrinho de compras",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1770638400000",
+   "due_date": "1777464000000",
+   "date_done": "1777464000000",
+   "time_estimate": 1638000000,
+   "assignees": [
+    {
+     "username": "Karina Nogueira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1768824000000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1775736000000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5056",
+   "name": "Integração com gateway de pagamento",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1771416000000",
+   "due_date": "1777032000000",
+   "date_done": "1777032000000",
+   "time_estimate": 5922000000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "integracao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1769428800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1775390400000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "integracao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5057",
+   "name": "Cadastro de clientes",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1771588800000",
+   "due_date": "1780056000000",
+   "date_done": "1780056000000",
+   "time_estimate": 9468000000,
+   "assignees": [
+    {
+     "username": "João Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1769688000000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1777377600000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5058",
+   "name": "Motor de regras",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1771416000000",
+   "due_date": "1779969600000",
+   "date_done": "1779969600000",
+   "time_estimate": 3013200000,
+   "assignees": [
+    {
+     "username": "Karina Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1769774400000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1777377600000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5059",
+   "name": "Teste de carga",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1773057600000",
+   "due_date": "1777636800000",
+   "date_done": "1777636800000",
+   "time_estimate": 1483200000,
+   "assignees": [
+    {
+     "username": "Karina Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "testes"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1771243200000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1775390400000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "testes"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5060",
+   "name": "Homologação com usuários",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1773316800000",
+   "due_date": "1781697600000",
+   "date_done": "1781697600000",
+   "time_estimate": 1213200000,
+   "assignees": [
+    {
+     "username": "Karina Nogueira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "testes"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1771329600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1779624000000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "testes"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5061",
+   "name": "Mensageria entre serviços",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1774440000000",
+   "due_date": "1781697600000",
+   "date_done": "1781697600000",
+   "time_estimate": 3502800000,
+   "assignees": [
+    {
+     "username": "Lucas Pacheco"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "integracao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1772452800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1780228800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "integracao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5062",
+   "name": "Backoffice administrativo",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1775217600000",
+   "due_date": "1779969600000",
+   "date_done": "1779969600000",
+   "time_estimate": 2242800000,
+   "assignees": [
+    {
+     "username": "Karina Nogueira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "desenvolvimento"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1772971200000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1777377600000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "desenvolvimento"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5063",
+   "name": "Pentest",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1776427200000",
+   "due_date": "1786104000000",
+   "date_done": "1786104000000",
+   "time_estimate": 1656000000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "testes"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1774180800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1782993600000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "testes"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5064",
+   "name": "Integração com o legado",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1776859200000",
+   "due_date": "1782475200000",
+   "date_done": "1782475200000",
+   "time_estimate": 2062800000,
+   "assignees": [
+    {
+     "username": "Karina Nogueira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "integracao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1774699200000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1779624000000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "integracao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5065",
+   "name": "Mensageria entre serviços",
+   "status": {
+    "status": "Done",
+    "type": "closed"
+   },
+   "start_date": "1778241600000",
+   "due_date": "1782388800000",
+   "date_done": "1782388800000",
+   "time_estimate": 2732400000,
+   "assignees": [
+    {
+     "username": "Lucas Pacheco"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "integracao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1775995200000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1780747200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "integracao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5066",
+   "name": "Carga inicial de dados",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1779364800000",
+   "due_date": "1782993600000",
+   "date_done": "1782993600000",
+   "time_estimate": 2264400000,
+   "assignees": [
+    {
+     "username": "Karina Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "integracao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1777464000000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1780747200000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "integracao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5067",
+   "name": "Teste de carga",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1780574400000",
+   "due_date": "1786622400000",
+   "date_done": "1786622400000",
+   "time_estimate": 990000000,
+   "assignees": [
+    {
+     "username": "Lucas Pacheco"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "testes"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1778241600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1784548800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "testes"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5068",
+   "name": "Pentest",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1782475200000",
+   "due_date": "1787140800000",
+   "date_done": "1787140800000",
+   "time_estimate": 2415600000,
+   "assignees": [
+    {
+     "username": "Felipe Teixeira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "testes"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1780401600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1784548800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "testes"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5069",
+   "name": "Pipeline de deploy em produção",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1782993600000",
+   "due_date": "1790251200000",
+   "date_done": "1790251200000",
+   "time_estimate": 5137200000,
+   "assignees": [
+    {
+     "username": "João Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "implantacao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1781092800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1788436800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "implantacao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5070",
+   "name": "Correção de bugs da homologação",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1783512000000",
+   "due_date": "1786622400000",
+   "date_done": "1786622400000",
+   "time_estimate": 1548000000,
+   "assignees": [
+    {
+     "username": "Karina Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "testes"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1781611200000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1784548800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "testes"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5071",
+   "name": "Homologação com usuários",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1783944000000",
+   "due_date": "1786536000000",
+   "date_done": "1786536000000",
+   "time_estimate": 5162400000,
+   "assignees": [
+    {
+     "username": "Lucas Pacheco"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "testes"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1782129600000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1784548800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "testes"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5072",
+   "name": "Plano de go-live",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1783944000000",
+   "due_date": "1790942400000",
+   "date_done": "1790942400000",
+   "time_estimate": 3600000000,
+   "assignees": [
+    {
+     "username": "Renata Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "implantacao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1782216000000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1788436800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "implantacao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5073",
+   "name": "Treinamento de usuários",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1784894400000",
+   "due_date": "1788350400000",
+   "date_done": "1788350400000",
+   "time_estimate": 2106000000,
+   "assignees": [
+    {
+     "username": "Sabrina Ferraz"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "implantacao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1782475200000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1786449600000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "implantacao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5074",
+   "name": "Go-live",
+   "status": {
+    "status": "concluído",
+    "type": "closed"
+   },
+   "start_date": "1784808000000",
+   "due_date": "1790856000000",
+   "date_done": "1790856000000",
+   "time_estimate": 9489600000,
+   "assignees": [
+    {
+     "username": "Karina Nogueira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "implantacao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1782820800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1788436800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "implantacao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5075",
+   "name": "Pipeline de deploy em produção",
+   "status": {
+    "status": "done",
+    "type": "closed"
+   },
+   "start_date": "1786536000000",
+   "due_date": "1790251200000",
+   "date_done": "1790251200000",
+   "time_estimate": 3466800000,
+   "assignees": [
+    {
+     "username": "Karina Esteves"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "implantacao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": 100
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1784548800000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1788436800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "implantacao"
+    }
+   ]
+  },
+  {
+   "id": "86b21e5076",
+   "name": "Treinamento de usuários",
+   "status": {
+    "status": "closed",
+    "type": "closed"
+   },
+   "start_date": "1787140800000",
+   "due_date": "1790856000000",
+   "date_done": "1790856000000",
+   "time_estimate": 2332800000,
+   "assignees": [
+    {
+     "username": "Felipe Teixeira"
+    }
+   ],
+   "custom_fields": [
+    {
+     "name": "Fase",
+     "type": "drop_down",
+     "value": "implantacao"
+    },
+    {
+     "name": "Progresso (%)",
+     "type": "number",
+     "value": "100"
+    },
+    {
+     "name": "Início baseline",
+     "type": "date",
+     "value": "1785499200000"
+    },
+    {
+     "name": "Fim baseline",
+     "type": "date",
+     "value": "1788436800000"
+    }
+   ],
+   "tags": [
+    {
+     "name": "implantacao"
+    }
+   ]
+  }
+ ]
+}
