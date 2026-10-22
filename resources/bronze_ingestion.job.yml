@@ -1,0 +1,17 @@
+resources:
+  jobs:
+    bronze_ingestion:
+      name: Bronze Ingestion
+      max_concurrent_runs: 2
+      queue:
+        enabled: true
+      tasks:
+        - task_key: holidays_ingestion
+          notebook_task:
+            notebook_path: ../src/day02/holidays_ingestion.ipynb
+        - task_key: supabase_ingestion
+          notebook_task:
+            notebook_path: ../src/day02/supabase_ingestion.ipynb
+            base_parameters:
+              S3_ENDPOINT: https://ympjseupjhgsnzwzscfs.storage.supabase.co/storage/v1/s3
+              AWS_DEFAULT_REGION: us-east-1
